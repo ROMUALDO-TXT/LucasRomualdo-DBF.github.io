@@ -1,0 +1,11 @@
+{
+    "name": "aula02",
+    "version": "1.0.0",
+    "description": "Vamo Que Vamo",
+    "main":"index.js",
+    "scripts":{
+        "test": "echo \"Error: no test specified\" && Exit 1"
+    },
+    "autor": "kbite",
+    "license": "ISC"
+}
