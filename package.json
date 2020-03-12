@@ -1,11 +1,20 @@
 {
-    "name": "aula02",
-    "version": "1.0.0",
-    "description": "Vamo Que Vamo",
-    "main":"index.js",
-    "scripts":{
-        "test": "echo \"Error: no test specified\" && Exit 1"
-    },
-    "autor": "kbite",
-    "license": "ISC"
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "Vamo Que Vamo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && Exit 1"
+  },
+  "autor": "kbite",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROMUALDO-TXT/LucasRomualdo-DBF.github.io.git"
+  },
+  "author": "\u001b[A\u001b[C tROMUALDO-TXT",
+  "bugs": {
+    "url": "https://github.com/ROMUALDO-TXT/LucasRomualdo-DBF.github.io/issues"
+  },
+  "homepage": "https://github.com/ROMUALDO-TXT/LucasRomualdo-DBF.github.io#readme"
 }
